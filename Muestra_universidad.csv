@@ -1,0 +1,386 @@
+ID_Estudiante,Facultad,Horas_Sueno,Minutos_Ejercicio,Veces_Ultraprocesados
+155,Salud,6.9,114,4
+308,Artes y Humanidades,5.8,91,1
+55,Ingeniería,7.7,138,2
+231,Salud,5.6,146,6
+336,Artes y Humanidades,6.3,154,5
+117,Ingeniería,6.5,226,5
+127,Ingeniería,5.3,138,6
+115,Ingeniería,6.3,78,5
+132,Ingeniería,6.6,163,5
+174,Salud,6.9,158,4
+142,Ingeniería,8.1,67,3
+347,Artes y Humanidades,4.8,96,4
+77,Ingeniería,6.6,142,5
+94,Ingeniería,6.1,279,4
+122,Ingeniería,5.4,113,3
+258,Salud,5.7,128,3
+297,Artes y Humanidades,7.6,89,1
+374,Artes y Humanidades,7.7,101,7
+248,Salud,5.7,133,2
+301,Artes y Humanidades,5.5,172,6
+172,Salud,5.5,118,7
+359,Artes y Humanidades,6.9,141,3
+107,Ingeniería,8.8,207,4
+31,Ingeniería,5.8,106,10
+358,Artes y Humanidades,6.2,112,5
+295,Artes y Humanidades,6.9,197,4
+265,Salud,6.2,171,3
+219,Salud,5.9,201,4
+91,Ingeniería,6.6,129,1
+285,Artes y Humanidades,9.1,189,5
+311,Artes y Humanidades,6.2,126,3
+137,Ingeniería,5.6,164,3
+44,Ingeniería,6.1,188,4
+225,Salud,5.9,207,4
+223,Salud,7.3,84,6
+230,Salud,7.3,250,6
+101,Ingeniería,4.8,76,3
+110,Ingeniería,6.4,209,5
+278,Artes y Humanidades,5.8,139,6
+11,Ingeniería,5.9,119,6
+143,Ingeniería,4.6,142,3
+372,Artes y Humanidades,7.1,162,3
+207,Salud,7.1,119,4
+72,Ingeniería,8.3,135,1
+237,Salud,4.1,161,4
+56,Ingeniería,7.6,157,5
+351,Artes y Humanidades,6.9,161,4
+322,Artes y Humanidades,7.2,82,4
+87,Ingeniería,7.6,36,3
+170,Salud,5.6,155,4
+64,Ingeniería,5.1,117,3
+152,Ingeniería,6.9,101,3
+21,Ingeniería,8.3,168,3
+18,Ingeniería,6.9,140,6
+335,Artes y Humanidades,7.7,137,6
+37,Ingeniería,6.8,219,5
+119,Ingeniería,7.9,165,5
+274,Artes y Humanidades,6.5,149,7
+376,Artes y Humanidades,5.6,114,3
+60,Ingeniería,7.7,81,2
+161,Salud,5.3,104,2
+296,Artes y Humanidades,5.7,172,6
+121,Ingeniería,7.4,118,4
+90,Ingeniería,7.1,214,7
+257,Salud,8.0,215,2
+320,Artes y Humanidades,6.3,70,3
+8,Ingeniería,7.4,81,2
+269,Salud,6.0,90,2
+300,Artes y Humanidades,7.3,85,5
+130,Ingeniería,5.9,114,5
+315,Artes y Humanidades,8.1,132,3
+146,Ingeniería,7.4,169,1
+36,Ingeniería,5.0,233,5
+208,Salud,7.1,162,5
+294,Artes y Humanidades,7.5,182,4
+345,Artes y Humanidades,5.9,105,2
+186,Salud,7.4,141,3
+349,Artes y Humanidades,5.6,63,4
+86,Ingeniería,5.9,128,2
+226,Salud,7.8,169,4
+199,Salud,6.6,242,5
+227,Salud,6.6,137,6
+284,Artes y Humanidades,5.0,21,5
+99,Ingeniería,6.5,149,1
+61,Ingeniería,5.9,170,1
+337,Artes y Humanidades,5.5,63,6
+382,Artes y Humanidades,5.8,138,1
+164,Salud,5.5,157,2
+125,Ingeniería,7.2,103,3
+325,Artes y Humanidades,5.3,216,2
+312,Artes y Humanidades,7.8,155,2
+261,Salud,5.4,128,0
+229,Salud,5.6,89,4
+52,Ingeniería,6.0,213,4
+23,Ingeniería,6.6,134,5
+176,Salud,7.5,153,6
+40,Ingeniería,6.7,169,5
+279,Artes y Humanidades,6.6,116,8
+243,Salud,7.1,134,6
+42,Ingeniería,6.7,97,1
+173,Salud,6.4,121,7
+331,Artes y Humanidades,6.5,190,7
+144,Ingeniería,6.7,152,3
+92,Ingeniería,7.7,166,4
+235,Salud,9.1,150,4
+26,Ingeniería,6.6,172,6
+242,Salud,6.4,95,8
+283,Artes y Humanidades,8.4,208,2
+93,Ingeniería,5.7,154,7
+4,Ingeniería,8.3,183,4
+15,Ingeniería,4.4,196,7
+280,Artes y Humanidades,6.0,108,5
+334,Artes y Humanidades,5.7,124,2
+252,Salud,7.6,177,7
+373,Artes y Humanidades,8.2,148,4
+116,Ingeniería,6.9,182,5
+353,Artes y Humanidades,7.5,184,2
+238,Salud,6.7,225,1
+218,Salud,6.2,179,6
+160,Salud,7.3,29,5
+264,Salud,5.3,130,4
+181,Salud,7.3,122,4
+203,Salud,7.8,102,4
+365,Artes y Humanidades,7.3,77,9
+307,Artes y Humanidades,8.0,192,3
+200,Salud,5.1,148,5
+281,Artes y Humanidades,6.6,145,4
+289,Artes y Humanidades,6.8,123,4
+106,Ingeniería,7.0,140,1
+46,Ingeniería,5.6,87,5
+180,Salud,9.8,194,5
+129,Ingeniería,6.6,99,3
+163,Salud,7.9,131,6
+298,Artes y Humanidades,6.9,116,7
+266,Salud,5.0,223,5
+68,Ingeniería,7.7,96,1
+45,Ingeniería,4.7,61,3
+259,Salud,7.0,72,3
+28,Ingeniería,7.0,71,4
+356,Artes y Humanidades,5.3,57,5
+187,Salud,7.1,215,3
+178,Salud,8.2,179,0
+302,Artes y Humanidades,5.8,129,7
+232,Salud,6.8,145,3
+236,Salud,7.3,104,4
+327,Artes y Humanidades,7.9,136,3
+221,Salud,9.3,224,4
+165,Salud,7.7,113,3
+159,Salud,5.1,205,7
+263,Salud,3.0,138,3
+319,Artes y Humanidades,6.9,77,4
+184,Salud,7.1,56,7
+330,Artes y Humanidades,7.3,138,5
+290,Artes y Humanidades,5.8,77,8
+367,Artes y Humanidades,6.8,79,3
+329,Artes y Humanidades,7.2,158,4
+377,Artes y Humanidades,7.5,145,1
+305,Artes y Humanidades,6.5,160,5
+381,Artes y Humanidades,5.5,108,4
+253,Salud,9.0,143,7
+250,Salud,7.0,94,4
+67,Ingeniería,6.4,183,7
+150,Ingeniería,6.9,111,5
+34,Ingeniería,5.2,193,3
+256,Salud,5.9,125,1
+158,Salud,7.1,164,4
+201,Salud,6.9,151,1
+328,Artes y Humanidades,7.4,115,5
+224,Salud,4.6,60,7
+323,Artes y Humanidades,5.5,219,3
+108,Ingeniería,6.7,143,3
+234,Salud,5.7,162,8
+41,Ingeniería,7.4,202,2
+20,Ingeniería,4.8,120,5
+275,Artes y Humanidades,5.3,134,2
+350,Artes y Humanidades,6.2,186,6
+171,Salud,5.4,121,4
+154,Ingeniería,6.8,185,5
+267,Salud,8.5,191,6
+166,Salud,7.0,144,3
+74,Ingeniería,8.4,115,4
+371,Artes y Humanidades,6.5,258,1
+260,Salud,7.4,129,2
+268,Salud,4.8,128,3
+35,Ingeniería,7.5,143,5
+362,Artes y Humanidades,8.3,148,5
+98,Ingeniería,6.8,68,6
+333,Artes y Humanidades,6.6,147,5
+131,Ingeniería,4.6,174,7
+71,Ingeniería,6.9,104,5
+293,Artes y Humanidades,5.8,219,1
+177,Salud,6.5,233,6
+195,Salud,6.7,191,1
+211,Salud,7.2,117,4
+360,Artes y Humanidades,5.5,163,4
+205,Salud,4.8,101,2
+246,Salud,6.1,64,4
+244,Salud,7.5,143,3
+58,Ingeniería,6.1,47,5
+6,Ingeniería,6.2,100,2
+66,Ingeniería,8.1,137,4
+17,Ingeniería,5.3,113,1
+209,Salud,7.1,155,5
+157,Salud,8.7,89,7
+364,Artes y Humanidades,7.0,112,4
+136,Ingeniería,8.4,65,7
+282,Artes y Humanidades,7.3,129,1
+105,Ingeniería,6.3,180,5
+340,Artes y Humanidades,5.8,148,1
+299,Artes y Humanidades,7.5,162,2
+82,Ingeniería,6.9,168,4
+24,Ingeniería,4.8,145,5
+29,Ingeniería,5.8,197,2
+291,Artes y Humanidades,6.3,105,3
+380,Artes y Humanidades,5.5,192,4
+288,Artes y Humanidades,7.2,125,1
+276,Artes y Humanidades,7.1,114,4
+220,Salud,6.6,159,3
+14,Ingeniería,4.2,135,8
+215,Salud,6.1,157,3
+79,Ingeniería,6.6,150,4
+135,Ingeniería,5.4,174,7
+182,Salud,5.5,48,3
+84,Ingeniería,5.9,116,1
+304,Artes y Humanidades,7.2,172,4
+277,Artes y Humanidades,6.7,115,3
+196,Salud,7.0,155,5
+346,Artes y Humanidades,6.8,149,4
+352,Artes y Humanidades,8.3,152,7
+222,Salud,4.3,105,5
+316,Artes y Humanidades,6.5,116,2
+379,Artes y Humanidades,9.1,136,7
+197,Salud,5.4,121,6
+366,Artes y Humanidades,6.0,98,3
+19,Ingeniería,5.4,142,4
+233,Salud,6.6,173,2
+355,Artes y Humanidades,6.5,186,5
+50,Ingeniería,4.4,208,7
+62,Ingeniería,6.3,156,2
+33,Ingeniería,6.5,145,4
+368,Artes y Humanidades,6.5,96,0
+120,Ingeniería,7.4,111,5
+118,Ingeniería,5.1,77,2
+69,Ingeniería,6.9,163,4
+286,Artes y Humanidades,4.2,196,3
+156,Salud,5.6,178,3
+57,Ingeniería,5.5,139,2
+5,Ingeniería,6.2,114,5
+97,Ingeniería,6.9,97,8
+134,Ingeniería,7.1,144,5
+145,Ingeniería,6.8,99,4
+140,Ingeniería,5.0,106,2
+27,Ingeniería,5.1,89,3
+133,Ingeniería,5.2,96,3
+75,Ingeniería,3.4,86,7
+53,Ingeniería,5.7,78,4
+309,Artes y Humanidades,7.2,168,4
+12,Ingeniería,5.9,63,1
+113,Ingeniería,6.6,131,6
+124,Ingeniería,4.8,142,3
+210,Salud,11.0,187,1
+369,Artes y Humanidades,6.6,187,4
+83,Ingeniería,8.3,174,3
+114,Ingeniería,9.5,101,6
+354,Artes y Humanidades,6.3,215,4
+7,Ingeniería,8.4,162,9
+348,Artes y Humanidades,4.8,158,0
+2,Ingeniería,6.3,155,3
+151,Ingeniería,6.8,142,2
+95,Ingeniería,6.0,190,6
+148,Ingeniería,4.9,137,7
+89,Ingeniería,5.9,202,3
+341,Artes y Humanidades,5.5,132,2
+80,Ingeniería,4.1,135,5
+204,Salud,7.8,177,1
+147,Ingeniería,5.0,65,3
+240,Salud,7.5,212,6
+13,Ingeniería,6.8,201,2
+193,Salud,6.8,175,4
+375,Artes y Humanidades,9.1,172,4
+216,Salud,7.4,174,3
+247,Salud,5.9,209,5
+189,Salud,5.5,130,3
+338,Artes y Humanidades,6.1,79,3
+270,Artes y Humanidades,6.7,256,3
+78,Ingeniería,6.1,109,6
+43,Ingeniería,6.4,171,6
+128,Ingeniería,5.8,129,4
+339,Artes y Humanidades,7.0,173,2
+100,Ingeniería,6.2,106,4
+361,Artes y Humanidades,7.1,107,2
+65,Ingeniería,7.5,92,4
+192,Salud,7.5,151,7
+183,Salud,5.2,95,3
+109,Ingeniería,6.8,101,3
+175,Salud,6.8,121,3
+76,Ingeniería,7.5,228,4
+49,Ingeniería,6.9,172,5
+63,Ingeniería,5.2,98,4
+370,Artes y Humanidades,5.6,97,4
+245,Salud,5.1,189,0
+262,Salud,6.4,19,1
+70,Ingeniería,5.7,116,6
+141,Ingeniería,6.8,59,5
+73,Ingeniería,6.5,93,6
+363,Artes y Humanidades,6.4,106,8
+251,Salud,5.0,66,3
+385,Artes y Humanidades,5.6,222,1
+126,Ingeniería,9.1,152,5
+167,Salud,7.5,133,3
+1,Ingeniería,7.1,147,5
+198,Salud,6.7,168,1
+96,Ingeniería,4.7,134,3
+271,Artes y Humanidades,8.2,143,3
+104,Ingeniería,5.5,216,4
+194,Salud,5.0,73,4
+88,Ingeniería,6.9,72,4
+81,Ingeniería,6.2,130,1
+292,Artes y Humanidades,5.9,90,6
+51,Ingeniería,6.9,143,5
+217,Salud,5.6,99,2
+191,Salud,6.0,40,2
+321,Artes y Humanidades,6.6,167,7
+344,Artes y Humanidades,5.9,116,7
+102,Ingeniería,6.0,111,3
+123,Ingeniería,8.2,101,2
+153,Ingeniería,5.7,123,1
+111,Ingeniería,4.2,164,2
+48,Ingeniería,7.8,128,1
+324,Artes y Humanidades,9.0,46,0
+273,Artes y Humanidades,7.9,139,6
+214,Salud,7.3,120,6
+10,Ingeniería,7.2,193,3
+139,Ingeniería,7.5,166,4
+9,Ingeniería,5.9,222,1
+254,Salud,7.7,82,3
+255,Salud,4.7,82,7
+162,Salud,7.4,166,1
+32,Ingeniería,8.7,210,4
+202,Salud,7.2,119,3
+287,Artes y Humanidades,6.3,47,1
+59,Ingeniería,6.9,136,0
+272,Artes y Humanidades,4.8,141,3
+241,Salud,5.5,117,1
+149,Ingeniería,7.1,86,3
+310,Artes y Humanidades,6.3,167,8
+213,Salud,7.6,96,3
+22,Ingeniería,6.2,92,3
+16,Ingeniería,5.8,68,3
+39,Ingeniería,4.9,184,2
+228,Salud,5.2,153,3
+47,Ingeniería,5.9,48,5
+185,Salud,6.2,124,3
+206,Salud,5.4,143,4
+112,Ingeniería,6.5,93,3
+25,Ingeniería,5.8,163,4
+378,Artes y Humanidades,6.7,255,5
+190,Salud,4.7,177,6
+30,Ingeniería,6.1,155,7
+306,Artes y Humanidades,6.6,124,5
+314,Artes y Humanidades,7.5,182,3
+343,Artes y Humanidades,6.8,156,2
+384,Artes y Humanidades,5.9,112,4
+239,Salud,5.7,201,10
+38,Ingeniería,4.1,129,2
+332,Artes y Humanidades,5.4,145,3
+303,Artes y Humanidades,7.4,123,5
+342,Artes y Humanidades,6.8,141,3
+179,Salud,6.2,125,3
+3,Ingeniería,7.3,224,7
+212,Salud,7.9,128,3
+317,Artes y Humanidades,7.3,187,5
+85,Ingeniería,5.5,114,7
+103,Ingeniería,6.1,91,5
+168,Salud,8.8,193,4
+138,Ingeniería,6.1,110,7
+383,Artes y Humanidades,4.0,220,8
+357,Artes y Humanidades,6.5,82,1
+326,Artes y Humanidades,5.0,149,3
+54,Ingeniería,7.2,63,0
+188,Salud,6.4,155,6
+249,Salud,8.6,121,2
+313,Artes y Humanidades,7.5,84,4
+169,Salud,6.2,151,9
+318,Artes y Humanidades,6.1,108,5
